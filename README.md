@@ -68,7 +68,7 @@ Los metadatos deben describir lo que el conjunto de datos *significa* y *cómo f
 
 ## 4. Identificadores persistentes y referencias
 
-Cada uno de los siguientes idealmente debería tener un **identificador estable y resolvible**, (o sea, que permita vincularse con un recurso persistente en la web):
+Cada uno de los siguientes idealmente debería tener un **identificador estable y resoluble**, (o sea, que permita vincularse con un recurso persistente en la web):
 
 * Conjunto de datos: DOI o URI
 * Variables: usar vocabularios controlados (p.ej., nombres de CF)
