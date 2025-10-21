@@ -1,7 +1,7 @@
 # Recomendaciones de interoperabilidad
 Se entiende por interoperabilidad a la capacidad de diferentes sistemas de información de intercambiar, compartir y utilizar datos sin un esfuerzo especial. Habilita el flujo de datos entre diversos sistemas y organizaciones mediante el uso de estándares, protocolos y tecnologías comunes permitiendo comunicar, compartir y usar información de manera coordinada y útil. La interoperabilidad es un concepto clave de los **principios FAIR data**, según los cuales los datos deben ser:
 - Encontrables (**F**indable), 
-- **A**ccessibles, 
+- **A**ccesibles, 
 - **I**nteroperables y 
 - **R**eutilizables
 
